@@ -81,9 +81,12 @@
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
+<br clear="both">
+<br clear="both">
+
 ###
 
-<h4 align="left">📌 Also see My Detail here:</h4>
+<h4 align="left">🧑🏻 Also see My Detail here:</h4>
 
 ###
 
