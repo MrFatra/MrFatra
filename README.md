@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">I'm Muhamad Ramadhan Fatra 👋</h2>
+<h3 align="center">I'm Muhamad Ramadhan Fatra 👋</h3>
 
 ###
 
@@ -84,9 +84,10 @@
 ###
 
 <h4 align="left">📌 Also see My Detail here:</h4>
-[My Website](https://mrfatra-portfolio.vercel.app)
 
 ###
+
+[My Website](https://mrfatra-portfolio.vercel.app)
 
 ###
 
