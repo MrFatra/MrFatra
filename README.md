@@ -4,9 +4,8 @@
 
 <h3 align="center">Hi There!</h3>
 
-###
 
-<h3 align="center">I'm Muhamad Ramadhan Fatra 👋</h3>
+<h2 align="center">I'm Muhamad Ramadhan Fatra 👋</h2>
 
 ###
 
