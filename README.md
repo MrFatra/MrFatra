@@ -4,9 +4,7 @@
 
 <h3 align="center">Hi There!</h3>
 
-##
-
-I'm Muhamad Ramadhan Fatra 👋
+## I'm Muhamad Ramadhan Fatra 👋
 
 <h3 align="center">Brogrammer</h3>
 
