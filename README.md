@@ -6,9 +6,7 @@
 
 ##
 
-<h2 align="center" style="text-decoration: none;">I'm Muhamad Ramadhan Fatra 👋</h2>
-
-##
+I'm Muhamad Ramadhan Fatra 👋
 
 <h3 align="center">Brogrammer</h3>
 
