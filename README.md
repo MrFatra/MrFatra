@@ -17,7 +17,7 @@
 <br clear="both">
 <br clear="both">
 
-<p align="left">I'm a Developer from Indonesia with a passion for software development, programming, and technology. I love contributing to open-source projects and exploring innovative solutions.</p>
+<p align="left">I'm a Developer from Indonesia 🇮🇩 with a passion for software development, programming, and technology. I love contributing to open-source projects and exploring innovative solutions.</p>
 
 ###
 
