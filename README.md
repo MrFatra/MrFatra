@@ -22,8 +22,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">📌 Here is My Stats:</h4>
 
 ###
