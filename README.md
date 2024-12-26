@@ -10,10 +10,12 @@
 
 ###
 
-<h5 align="center">Brogrammer</h5>
+<h4 align="center">Brogrammer</h4>
 
 ###
 
+<br clear="both">
+<br clear="both">
 <br clear="both">
 
 <p align="left">I'm a Developer from Indonesia with a passion for software development, programming, and technology. I love contributing to open-source projects and exploring innovative solutions.</p>
@@ -31,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mrfatra&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true&custom_title=Me" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mrfatra&locale=en&mode=daily&theme=moltack&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
 </div>
+
+<br clear="both">
 
 ###
 
