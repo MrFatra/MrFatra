@@ -6,15 +6,14 @@
 
 ###
 
-<h3 align="center">I'm Muhamad Ramadhan Fatra 👋</h3>
+<h2 align="center">I'm Muhamad Ramadhan Fatra 👋</h2>
 
 ###
 
-<h4 align="center">Brogrammer</h4>
+<h3 align="center">Brogrammer</h3>
 
 ###
 
-<br clear="both">
 <br clear="both">
 <br clear="both">
 
@@ -84,7 +83,12 @@
 
 ###
 
-<br clear="both">
+<h4 align="left">📌 Also see My Detail here:</h4>
+[My Website](https://mrfatra-portfolio.vercel.app)
+
+###
+
+###
 
 <img src="https://raw.githubusercontent.com/mrfatra/mrfatra/output/snake.svg" alt="Snake animation" />
 
