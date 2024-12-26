@@ -81,6 +81,32 @@
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
+###
+
+<h4 align="left">🛢 Database:</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+</div>
+
+###
+
+<h4 align="left">✏️ Design:</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
+
+###
+
 <br clear="both">
 <br clear="both">
 
