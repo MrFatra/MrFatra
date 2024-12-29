@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">📌 Here is My Stats:</h3>
+<h2 align="center">📌 Here is My Stats:</h2>
 
 ###
 
