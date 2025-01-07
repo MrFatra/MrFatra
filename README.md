@@ -135,8 +135,6 @@
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w9ucj7q3vi5hjgbebqmmfj0rb&cover_image=true&theme=novatorem&show_offline=false&background_color=b33737&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=w9ucj7q3vi5hjgbebqmmfj0rb&redirect=true)
-
 ###
 
 <div align="left">
