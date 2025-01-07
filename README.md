@@ -134,7 +134,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=w9ucj7q3vi5hjgbebqmmfj0rb&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w9ucj7q3vi5hjgbebqmmfj0rb&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=w9ucj7q3vi5hjgbebqmmfj0rb&cover_image=true&theme=novatorem&show_offline=false&background_color=b33737&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 ###
 
 <div align="left">
