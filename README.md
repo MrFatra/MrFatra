@@ -15,11 +15,13 @@
 <br clear="both">
 <br clear="both">
 
-<p align="left">I'm a Developer from Indonesia 🇮🇩 with a passion for software development, programming, and technology. I love contributing to open-source projects and exploring innovative solutions.</p>
+<p align="left">I'm a Developer from Indonesia 🇮🇩. Yes, it's that simple :)</p>
+
+[Don't worry... This is not phising link :)](https://mrfatra.alope.id)
 
 ###
 
-<h2 align="center">📌 Here is My Stats:</h2>
+<h2 align="center">Scrolling? Oh this is my "Stats" so far btw:</h2>
 
 ###
 
@@ -33,89 +35,45 @@
 
 ###
 
-<h2 align="center">🛠️ Stack Used</h2>
+<h2 align="center">Why do you keep scrolling? Okay... thanks btw, I think you need to know my skill too: </h2>
 
-###
+```ts
+import { Skills } from '@/mrfatra'
 
-<h4 align="left">🌐 Frontend:</h4>
+class Frontend extends Skills {
+  reactjs
+  tailwindcss
+  laravel
+  nextjs
+  shadcnui
+  chakraui
+  daisyui
+}
 
-###
+class Backend extends Skills {
+  expressjs
+  nextjs
+  laravel
+}
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-</div>
+class Mobile extends Skills {
+  reactnative
+  flutter
+}
 
-###
+class Database extends Skills {
+  mysql
+  mongodb
+  postgresql
+}
 
-<h4 align="left">⚙️ Backend:</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-</div>
-
-###
-
-<h4 align="left">📱 Mobile:</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-</div>
-
-###
-
-<h4 align="left">🛢 Database:</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-</div>
-
-###
-
-<h4 align="left">✏️ Design:</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-</div>
-
-###
+```
 
 <br clear="both">
 
-###
-
-<h4 align="left">🧑🏻 Also see My Detail here:</h4>
+<p align="left">Fyuh... 😪 Are you bored already? Okay maybe down here is not important...</p>
 
 ###
-
-[My Website](https://mrfatra.alope.id)
 
 ###
 
