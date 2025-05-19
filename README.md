@@ -17,11 +17,16 @@
 
 <p align="left">I'm a Developer from Indonesia 🇮🇩. Yes, it's that simple :)</p>
 
+<br clear="both">
+
 [Don't worry... This is not phising link :)](https://mrfatra.alope.id)
 
 ###
 
-<h2 align="center">Scrolling? Oh this is my "Stats" so far btw:</h2>
+<br clear="both">
+<br clear="both">
+
+<h3 align="center">Scrolling? Oh this is my "Stats" so far btw:</h3>
 
 ###
 
@@ -32,10 +37,11 @@
 </div>
 
 <br clear="both">
+<br clear="both">
 
 ###
 
-<h2 align="center">Why do you keep scrolling? Okay... thanks btw, I think you need to know my skill too: </h2>
+<h3 align="center">Why do you keep scrolling? Okay... thanks btw, I think you need to know my skill too: </h3>
 
 ```ts
 import { Skills } from '@/mrfatra'
@@ -74,6 +80,9 @@ class Database extends Skills {
 <p align="left">Fyuh... 😪 Are you bored already? Okay maybe down here is not important...</p>
 
 ###
+
+<br clear="both">
+<br clear="both">
 
 ###
 
