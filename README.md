@@ -1,5 +1,3 @@
-<img align="left" height="200" src="https://media1.tenor.com/m/cKLTZil3GOMAAAAd/hi-hi-there.gif"  />
-
 ###
 
 <h3 align="center">Hi There!</h3>
@@ -117,15 +115,11 @@
 
 ###
 
-[My Website](https://mrfatra-portfolio.vercel.app)
+[My Website](https://mrfatra.alope.id)
 
 ###
 
 <img src="https://raw.githubusercontent.com/mrfatra/mrfatra/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/31044VVA7iMAAAAd/mewing-cat.gif"  />
 
 ###
 
