@@ -59,6 +59,7 @@ class Frontend extends Skills {
 class Backend extends Skills {
   expressjs
   nextjs
+  golang
   laravel
 }
 
@@ -70,6 +71,7 @@ class Mobile extends Skills {
 class Database extends Skills {
   mysql
   mongodb
+  redis
   postgresql
 }
 
